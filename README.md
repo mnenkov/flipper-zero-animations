@@ -38,6 +38,8 @@ gif2ip is python script allowing you to split as much animations as you want in 
 
 Two files come with the tool, requirements.py, which you need to execute in order to install needed modules for python. The second file is gif2zip.txt, you need to write your path to folder with your gifs and then save and rename it into gif2zip.py, then you execute it with python and cross your legs!
 
+Ohhh and forgot....the gif2zip checks if the gifs are more than 46 frames and if they are it removes every second frame until they are 46 or under
+
 
 ## Custom animations for Flipper Zero Device
 
