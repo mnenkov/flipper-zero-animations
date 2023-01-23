@@ -16,10 +16,10 @@ Here I'll dump animations and tools to create them
 
 ## flipper-zero-animations-The100s
   Cars, Movies, Memes and more..
-##Here I'll dump animations and tools to create them
+## Here I'll dump animations and tools to create them
 
 
-##Manifest Creator
+## Manifest Creator
 
 For the manifest creator you should replace the list of names you are creating manifests for and save the file as .py, then run it with python!
 When the Manifest is created you need to add:
@@ -56,7 +56,7 @@ at the top of the txt file!!!
 
 I am too lazy to add descriptions for every animation.
 
-##Those are the previews for my animations and yes i know there is watermark, free software...
+## Those are the previews for my animations and yes i know there is watermark, free software...
 
 https://user-images.githubusercontent.com/55942805/213947743-8be22b49-7948-4077-8446-e96339d889a7.mp4
 
