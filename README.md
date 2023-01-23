@@ -25,7 +25,7 @@ Custom animations for Flipper Zéro Device
 
 I am too lazy to add descriptions for every animation.
 
-Those are the previews
+Those are the previews and yes i know there is watermark, free software...
 
 https://user-images.githubusercontent.com/55942805/213947743-8be22b49-7948-4077-8446-e96339d889a7.mp4
 
