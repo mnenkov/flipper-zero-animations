@@ -1,9 +1,10 @@
 from PIL import Image
 import os
 import zipfile
+import sys
 
 # Get the folder path where the gifs are located
-folder_path = r"Path-to-Folder"
+folder_path = rf"{sys.argv[1]}" # To be CLI callable
 
 # Get list of gifs in the folder
 gif_files = [f for f in os.listdir(folder_path) if f.endswith('.gif')]
@@ -33,7 +34,7 @@ for gif_file in gif_files:
         os.makedirs(gif_output_folder)
     # Save frames to output folder
     for i in range(len(frames)):
-        frames[i].save(os.path.join(gif_output_folder, f'{gif_name}_frame_{i}.png'))
+        frames[i].save(os.path.join(gif_output_folder, f'frame_{i}.png'))
         print(f'{i+1}/{len(frames)} frames saved for {gif_name}')
 
     # Create zip archive for the gif
